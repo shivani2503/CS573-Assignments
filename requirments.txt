@@ -30,6 +30,7 @@ numpy==1.15.4
 oauth==1.0.1
 olefile==0.45.1
 opencv-python==3.4.4.19
+pbr==5.4.4
 pexpect==4.2.1
 Pillow==5.1.0
 pipenv==2018.11.26
@@ -59,6 +60,7 @@ sqlparse==0.3.0
 system-service==0.3
 systemd-python==234
 tesserocr==2.3.1
+testresources==2.0.1
 ubuntu-drivers-common==0.0.0
 ufw==0.36
 unattended-upgrades==0.1
